@@ -11,5 +11,5 @@ i=0
 
 while True:
     time.sleep(.1)
-    print("\r{}".format(i),end=")
+    print("\r{}".format(i))
     i += 1
